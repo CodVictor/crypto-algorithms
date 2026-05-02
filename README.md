@@ -31,7 +31,7 @@ git clone https://github.com/your-username/algorithm-suite.git
 
 **Author**
 
-Created by Your Name.
+Created by Victor Oliveira y Ariel Lozano.
 
 **Notes**
 
