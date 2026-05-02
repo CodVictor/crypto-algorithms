@@ -30,7 +30,7 @@ git clone https://github.com/your-username/algorithm-suite.git
 
 **Author**
 
-Created by Victor Oliveira y Ariel Lozano.
+Created by Victor Oliveira and Ariel Lozano.
 
 **Notes**
 
