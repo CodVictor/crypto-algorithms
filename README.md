@@ -1,4 +1,4 @@
-# Crypto Algoriths
+# Crypto Algorithms
 
 This repository contains different algorithms and coding exercises.
 
