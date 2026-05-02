@@ -15,9 +15,8 @@ The purpose of this project is to practice programming logic and understand how 
 
 ## Technologies
 
-- Programming Language: (add your language here)
-- Git
-- GitHub
+- Programming Language:
+- Python
 
 ## How to Use
 
